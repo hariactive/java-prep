@@ -20,3 +20,23 @@
   ##    How do you merge two sorted linked lists?
    ##   How do you implement binary search to find an element in a sorted array?
    ##   How do you print a binary tree in vertical order?
+    
+   ### What is the difference between ArrayList and LinkedList in Java?
+
+    Explain the concept of method overloading and method overriding in Java.
+
+    What is the difference between an abstract class and an interface in Java? When would you use each?
+
+    Can you give an example of encapsulation in Java?
+
+    What is the difference between a checked and an unchecked exception in Java?
+
+    Explain the concept of static and non-static methods in Java.
+
+    What are the access modifiers in Java and what do they signify?
+
+    How does the Java garbage collector work? Explain the different generations in garbage collection.
+
+    What is the purpose of the transient keyword in Java?
+
+    How does the synchronized keyword work in Java? What is the significance of synchronized blocks?
